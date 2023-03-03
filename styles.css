@@ -1,4 +1,4 @@
-/* html {
+html {
   box-sizing: border-box;
   background: url("oh-la-la.jpeg") center no-repeat;
   background-size: cover;
@@ -58,7 +58,7 @@ h2 {
 }
 
 .plates input {
-  display: none;
+/*   display: none; */
 }
 
 .plates input + label:before {
@@ -79,4 +79,3 @@ h2 {
   outline: 0;
   border: 1px solid rgba(0, 0, 0, 0.1);
 }
- */
